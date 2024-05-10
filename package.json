@@ -1,8 +1,7 @@
 {
-  "name": "19_countries-project-setup-in-react",
+  "name": "land-count",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
